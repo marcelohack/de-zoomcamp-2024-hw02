@@ -1,0 +1,5 @@
+data/
+creds/
+mage/gcp-de-zoomcamp.json
+# Commented out to keep the triggers configuration and pipeline run history
+# mage/mage_data/
